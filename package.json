@@ -38,7 +38,7 @@
     "quaternion": "^1.1.0",
     "resize-observer-polyfill": "^1.5.1",
     "svg-gauge": "^1.0.6",
-    "three": "^0.116.1",
+    "three": "^0.125.0",
     "urdf-loader": "^0.8.2"
   },
   "devDependencies": {
